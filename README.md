@@ -22,6 +22,9 @@ yarn dev
 # npm
 npm run dev
 
+#node serve
+node server.js
+
 # pnpm
 pnpm dev
 ```
